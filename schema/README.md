@@ -1,6 +1,6 @@
-# Schéma _thématique_
-
-_Indiquer ici les informations pertinentes pour la compréhension et l'utilisation du schéma et supprimer les informations ci-dessous qui sont destinées à aider le GT dans ses travaux._
+# Schéma Standard PDIPR
+Ce répertoire a pour objectif de rassembler les travaux menés par le GT CNIG PDIPR, il contiendra (le cas échéant) le schéma JSON correspondant au Standard CNIG des Plans départementaux des itinéraires de promenade et de randonnée (PDIPR).
+Cette section est en cours de construction.
 
 ## Réaliser un schéma
 
